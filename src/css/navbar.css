@@ -1,15 +1,10 @@
 .navbar {
     width: 10%;
-    align-items: center;
     box-shadow: 1cqw 1px 20px 1px #e6e6e6;
-    position: relative;
 }
 
 .navPages {
     text-align: center;
-    align-items: center;
-    justify-content: center;
-
 }
 
 .nav-button-title {
@@ -47,7 +42,7 @@
 
 .navbar-space {
     padding: 10%;
-    padding-bottom: 120%;
+    padding-bottom: 90%;
     margin: 10%;
 }
 

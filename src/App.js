@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import Navbar from './components/Navbar';
 import "./css/home.css"
+import Header from "./components/Header"
 
 //side navbar
 // User details row
@@ -15,7 +16,9 @@ function App() {
   return (
     <div className="home">
      <Navbar />
-    <div className='homeContainer'>container</div>
+
+    <div className='homeContainer'></div>
+    <Header />
     </div>
   );
 }

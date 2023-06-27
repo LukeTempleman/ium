@@ -1,0 +1,54 @@
+.headerContainer {
+    position: relative;
+    top: 40px;
+    display: flex;
+    width: 100%;
+    height: fit-content;
+   
+}
+
+.title {
+    font-size: 300%;
+    
+}
+
+.buttonText {
+    padding: 8px;
+    color: white;
+}
+
+
+.rightGrid {
+    margin-left: 50%;
+    flex: auto;
+    float: left;
+    position: relative;
+    display: flex;
+    top: 40px;
+}
+
+
+.headerButton {
+    flex:1;
+    height: 50px;
+    position: relative;
+
+}
+
+
+.profilePicture {
+    flex: 2;
+    bottom: 10px;
+    position: relative;
+    right: 25px;
+}
+
+.userName{
+    flex:3;
+    bottom: 10px;
+    position: relative;
+    width: fit-content;
+    height: fit-content;
+    right: 60px;
+   
+}

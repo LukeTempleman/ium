@@ -1,9 +1,10 @@
 .home{
     display:flex;
-    height: 100%;
+    
 }
 
 .homeContainer{
-  
-    width: 100%;
+   
+  padding: 3%;
+  position: relative;
 }
