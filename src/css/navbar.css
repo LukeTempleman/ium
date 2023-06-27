@@ -1,0 +1,59 @@
+.navbar {
+    width: 10%;
+    align-items: center;
+    box-shadow: 1cqw 1px 20px 1px #e6e6e6;
+    position: relative;
+}
+
+.navPages {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.nav-button-title {
+    padding-bottom: 10%;
+}
+
+.dashboard-route {
+    border-radius: 3px;
+    padding: 10%;
+    margin: 10%;
+    box-shadow: 1px 1px 20px 1px #e6e6e6;
+}
+
+
+.analytics-route {
+    padding: 10%;
+    margin: 10%;
+
+}
+
+
+.trading-route {
+    padding: 10%;
+    margin: 10%;
+
+}
+
+
+.notifications-route {
+    padding: 10%;
+    margin: 10%;
+
+}
+
+
+.navbar-space {
+    padding: 10%;
+    padding-bottom: 120%;
+    margin: 10%;
+}
+
+
+.logout {
+    bottom: 10px;
+    padding: 10%;
+    margin: 10%;
+}
